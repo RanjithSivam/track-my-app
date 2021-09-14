@@ -10,4 +10,4 @@ Track-my-app is an AMAZON web scrapping api which uses nighmare to scrap the pri
 
 UUUUUUUUUU HOW TO USE API UUUUUUUUUUUUUU
 
-1. To use the api <code>https://track-my-product.herokuapp.com/url/<your_url_to_scrap_></code>
+1. To use the api, send a get request to the follwoing api : <code>https://track-my-product.herokuapp.com/url/<your_url_to_scrap_></code>
